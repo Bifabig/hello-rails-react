@@ -103,7 +103,8 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-   ./bin/dev
+  npm run build
+  rails s
 ```
 
 ### Run tests
